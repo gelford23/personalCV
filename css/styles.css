@@ -40,6 +40,7 @@ hr {
 }
 .middle-container {
     padding-top: 50px;
+    padding-bottom: 20px;
     
 }
 .bottom-container {
@@ -47,6 +48,9 @@ hr {
     position: relative;
     padding-top : 100px;
     justify-content: space-between;
+    padding-bottom: 40px;
+    font-size: 20px;
+    padding-top: 50px;
 }
 
 
